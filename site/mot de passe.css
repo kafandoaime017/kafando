@@ -1,0 +1,35 @@
+body
+{
+    background-color: rgb(101, 95, 160);
+    color: black;
+}
+.centre
+{
+    border: white groove;
+    text-align: center;
+}
+.positionimage
+{
+    text-align:center;
+}
+.images
+{
+    text-align:center;
+}
+.tex
+{
+    font-weight: bold;
+    font-size: 5mm;
+    font-style: italic;
+}
+.class
+{
+    font-size: 2cm;
+    text-align: center;
+    text-decoration: overline;
+}
+div
+{
+    text-align: center;
+    font-size: 7mm;
+}
